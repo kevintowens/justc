@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*justc */
+/*justc 
+  add file-io rel 2
+*/
 
 int mult(int x, int y);
 int getoper();
