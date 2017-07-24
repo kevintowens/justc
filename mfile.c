@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* justc */
+/* justc.mfile */
 
 int mcreate(){
   printf("...entering mfile.mcreate\n");
