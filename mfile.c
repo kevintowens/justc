@@ -1,9 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* justc */
+/* justc.mfile */
 
 int mcreate(){
-  printf("...entering mcreate\n");
+  printf("...entering mfile.mcreate\n");
   return (EXIT_SUCCESS);
 }
