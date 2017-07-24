@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*justc 
-  add file-io rel 2
+/*
+ * justc.main 
+ *
 */
 
 int mult(int x, int y);
