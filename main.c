@@ -19,6 +19,6 @@ int main(int argc, char** argv) {
     x = getoper();
     y = getoper();
     z = mult(x, y);
-    printf("Program Completed! hotfix! %d\n", z);
+    printf("Program Completed! %d\n", z);
     return (EXIT_SUCCESS);
 }
